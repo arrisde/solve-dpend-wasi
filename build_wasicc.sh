@@ -1,0 +1,1 @@
+wasicc -O3 -o solve_dpend.wasm ./src/solve_dpend.c

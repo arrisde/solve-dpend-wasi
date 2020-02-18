@@ -1,0 +1,1 @@
+gcc -O3 -o solve_dpend ./src/solve_dpend.c -lm
